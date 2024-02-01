@@ -1,2 +1,2 @@
 # Financial-Forecasting
-Financial forecasting for DAX Stock from xx to xx, using yfinance data.
+Financial Forecasting for DAX Stock from xx to xx, using yfinance data.
