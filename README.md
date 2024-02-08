@@ -1,2 +1,2 @@
 # Financial-Forecasting
-Financial forecastin, based on yfinance price history.
+Financial forecasting, based on closing price history.
